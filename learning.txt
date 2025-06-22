@@ -1,0 +1,2 @@
+What I have learned from this course
+I learnt how to create a file in a repo, and commit change
